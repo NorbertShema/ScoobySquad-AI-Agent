@@ -1,2 +1,2 @@
 # ScoobySquad-AI-Agent
-ScoobySquad a pet waste removal service
+ScoobySquad a pet waste removal service,
