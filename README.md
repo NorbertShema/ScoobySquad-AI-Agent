@@ -118,7 +118,7 @@ Frontend authenticates users via Supabase Google OAuth → session token is pass
 ## Built By
 
 - **Norbert Shema** — architecture, development, CRM integration, testing
-- **Michael** — product direction, business context, project management
+- **Michael** — development, product direction, business context, project management
 
 ---
 
