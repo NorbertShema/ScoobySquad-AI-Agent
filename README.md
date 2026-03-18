@@ -10,7 +10,7 @@
 
 ScoobySquad is a local pet waste removal service — think lawn care, but just for cleaning up after dogs. The business was growing fast, but the owner was spending hours every week manually responding to the same customer questions over DMs, emails, and contact forms: pricing, availability, service areas, how to book.
 
-My friend Michael (who handles the business side) and I built an AI agent to solve that. Customers now visit the site, ask questions, get instant accurate answers, and can book a service — all without anyone touching it.
+My friend Michael and I built an AI agent to solve that. Customers now visit the site, ask questions, get instant accurate answers, and can book a service — all without anyone touching it.
 
 **Live users: 20 | Human interventions required: 0**
 
