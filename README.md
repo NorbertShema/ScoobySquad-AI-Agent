@@ -2,7 +2,7 @@
 
 > An AI-powered customer service and booking agent built for a real, live pet waste removal business — handling 100% of customer inquiries and service bookings autonomously.
 
-🔗 **Live site: [scoobysquad.com](https://scoobysquad.com/)**
+🔗 [scoobysquad.com](https://scoobysquad.com/)**
 
 ---
 
