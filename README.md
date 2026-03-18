@@ -8,9 +8,9 @@
 
 ## What is ScoobySquad?
 
-ScoobySquad is a local pet waste removal service — think lawn care, but just for cleaning up after dogs. The business was growing fast, but the owner was spending hours every week manually responding to the same customer questions over DMs, emails, and contact forms: pricing, availability, service areas, how to book.
+ScoobySquad is a local pet waste removal service — think lawn care, but just for cleaning up after dogs. The business was growing fast, but the owner was spending hours every week manually responding to the same customer questions over DMs, emails, and contact forms: pricing, availability, service areas, and how to book.
 
-My friend Michael and I built an AI agent to solve that. Customers now visit the site, ask questions, get instant accurate answers, and can book a service — all without anyone touching it.
+My friend Michael and I built an AI agent to solve that. Customers now visit the site, ask questions, get instant, accurate answers, and can book a service — all without anyone touching it.
 
 **Live users: 20 | Human interventions required: 0**
 
@@ -18,7 +18,7 @@ My friend Michael and I built an AI agent to solve that. Customers now visit the
 
 ## Demo
 
-> 📸 *Screenshots / screen recording coming soon*
+> 📸 *Screenshots/screen recording coming soon*
 
 <!-- Add demo GIF or screenshots here -->
 
@@ -75,7 +75,7 @@ User (Browser)
 
 ## Backend Overview
 
-The backend is built around **n8n** as the central workflow engine rather than a custom Express/FastAPI server. This was a deliberate tradeoff: n8n gave us complex logic handling (escalation routing, conditional branching, multi-step tool calls) without reinventing the wheel — critical given a $0 budget.
+The backend is built around **n8n** as the central workflow engine rather than a custom Express/FastAPI server. This was a deliberate tradeoff: n8n gave us complex logic handling (escalation routing, conditional branching, multi-step tool calls) without reinventing the wheel — critical given a limited budget.
 
 **Key decisions:**
 
