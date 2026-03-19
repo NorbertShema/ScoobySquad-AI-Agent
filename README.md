@@ -101,7 +101,7 @@ Frontend authenticates users via Supabase Google OAuth → session token is pass
 | Auth | Supabase Auth (Google OAuth) |
 | CRM | Sweep&Go API |
 | Logging | Google Sheets (Google Cloud API) |
-| Hosting | Vercel |
+| Hosting | Hostinger /Vercel |
 
 ---
 
