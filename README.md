@@ -26,9 +26,9 @@ My friend Michael and I built an AI agent to solve that. Customers now visit the
 
 ## Features
 
-- 🤖 **Conversational AI** — answers customer questions naturally using real business data
+- **Conversational AI** — answers customer questions naturally using real business data
 - 📅 **Autonomous booking** — creates actual service bookings end-to-end without human input
-- 🔐 **Authenticated sessions** — secure user identity via Google OAuth (Supabase Auth)
+- **Authenticated sessions** — secure user identity via Google OAuth (Supabase Auth)
 - 📊 **Conversation logging** — all sessions logged to Google Sheets for owner visibility
 - 🔄 **Live CRM integration** — agent pulls real customer and availability data via Sweep&Go API
 - 📍 **SEO-optimized frontend** — built with Next.js SSR for local search discoverability
