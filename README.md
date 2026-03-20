@@ -16,14 +16,6 @@ My friend Michael and I built an AI agent to solve that. Customers now visit the
 
 ---
 
-## Demo
-
-> 📸 *Screenshots/screen recording coming soon*
-
-<!-- Add demo GIF or screenshots here -->
-
----
-
 ## Features
 
 - **Conversational AI** — answers customer questions naturally using real business data
